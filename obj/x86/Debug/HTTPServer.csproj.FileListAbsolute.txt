@@ -1,0 +1,22 @@
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+E:\College\3rd Year\Computer Networks\Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+E:\College\3rd Year\Computer Networks\Project\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+E:\College\3rd Year\Computer Networks\Project\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+E:\College\3rd Year\Computer Networks\Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+E:\College\3rd Year\Computer Networks\Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+E:\College\3rd Year\Computer Networks\Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+C:\Users\yn653\OneDrive\Desktop\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\yn653\OneDrive\Desktop\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\yn653\OneDrive\Desktop\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+C:\Users\yn653\OneDrive\Desktop\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\yn653\OneDrive\Desktop\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\yn653\OneDrive\Desktop\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+D:\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+D:\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+D:\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+D:\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+D:\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+D:\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
